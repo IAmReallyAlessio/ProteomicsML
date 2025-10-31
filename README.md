@@ -27,7 +27,8 @@ Want to learn more about the project? Read our publication:
 
 **Learn**<br>
 📒 Explore all [tutorials][tutorials] and [datasets][datasets]<br>
-🙏 Ask or answer questions about the tutorials in [Tutorials Q&A][tutorials-qa]
+🙏 Ask or answer questions about the tutorials in [Tutorials Q&A][tutorials-qa]<br>
+📒 [Background resources][background-resources] for learning about proteomics and glycoproteomics<br>
 
 **Discuss**<br>
 📄 Discuss the existing datasets or the addition of a new dataset in [Dataset Discussions][dataset-discussions]<br>
@@ -41,6 +42,7 @@ Want to learn more about the project? Read our publication:
 [tutorials]: https://www.proteomicsml.org/tutorials
 [datasets]: https://www.proteomicsml.org/datasets
 [tutorials-qa]: https://github.com/ProteomicsML/ProteomicsML/discussions/categories/tutorials-q-a
+[background-resources]: https://proteomicsml.org/background_resources.html
 [dataset-discussions]: https://github.com/ProteomicsML/ProteomicsML/discussions/categories/dataset-discussions
 [general-discussions]: https://github.com/ProteomicsML/ProteomicsML/discussions/categories/general
 [open-issue]: https://github.com/ProteomicsML/ProteomicsML/issues
